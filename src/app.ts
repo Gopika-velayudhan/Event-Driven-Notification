@@ -8,13 +8,13 @@ import notificationRoutes from './routes/notificationRoutes';
 import { SchedulerService } from './services/schedulerService';
 import { logger } from './utils/logger';
 
-// Load environment variables
+
 dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Middleware
+
 app.use(cors());
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
@@ -22,15 +22,15 @@ app.use(express.urlencoded({ extended: true }));
 
 
 
-// API Routes
+
 app.use('/api/events', eventRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/notifications', notificationRoutes);
 
-//
 
 
-// Initialize services and start server
+
+
 const startServer = async (): Promise<void> => {
   try {
     await connectDatabase();
@@ -48,7 +48,7 @@ const startServer = async (): Promise<void> => {
   }
 };
 
-// Graceful shutdown
+
 process.on('SIGTERM', () => {
   logger.info('SIGTERM received, shutting down gracefully');
   process.exit(0);
