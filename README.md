@@ -27,10 +27,6 @@ An event-driven backend service built with **Express.js**, **TypeScript**, and *
 - Bulk notification API support.
 - Notification retrieval with filtering options (type, priority, date).
 
-### 🧪 Testing
-- Unit and integration tests using **Jest** and **Supertest**.
-
----
 
 ## 🛠 Tech Stack
 
