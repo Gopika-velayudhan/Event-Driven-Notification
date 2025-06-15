@@ -23,3 +23,40 @@
 {"level":"info","message":"🔗 Health check: http://localhost:5000/health","service":"notification-system","timestamp":"2025-06-14T08:55:41.553Z"}
 {"level":"info","message":"📧 Notification system ready","service":"notification-system","timestamp":"2025-06-14T08:55:41.553Z"}
 {"level":"info","message":"SIGINT received, shutting down gracefully","service":"notification-system","timestamp":"2025-06-14T08:55:46.931Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"notification-system","timestamp":"2025-06-15T04:08:38.620Z"}
+{"level":"info","message":"Scheduler service started","service":"notification-system","timestamp":"2025-06-15T04:08:38.695Z"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"notification-system","timestamp":"2025-06-15T04:08:38.700Z"}
+{"level":"info","message":"📍 Environment: development","service":"notification-system","timestamp":"2025-06-15T04:08:38.701Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:5000/health","service":"notification-system","timestamp":"2025-06-15T04:08:38.701Z"}
+{"level":"info","message":"📧 Notification system ready","service":"notification-system","timestamp":"2025-06-15T04:08:38.702Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"notification-system","timestamp":"2025-06-15T04:14:42.941Z"}
+{"level":"info","message":"Scheduler service started","service":"notification-system","timestamp":"2025-06-15T04:14:43.108Z"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"notification-system","timestamp":"2025-06-15T04:14:43.114Z"}
+{"level":"info","message":"📍 Environment: development","service":"notification-system","timestamp":"2025-06-15T04:14:43.114Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:5000/health","service":"notification-system","timestamp":"2025-06-15T04:14:43.115Z"}
+{"level":"info","message":"📧 Notification system ready","service":"notification-system","timestamp":"2025-06-15T04:14:43.115Z"}
+{"level":"info","message":"User preferences updated: 684d369bcc6719c62b96e83c","service":"notification-system","timestamp":"2025-06-15T04:19:09.505Z"}
+{"level":"info","message":"Event created: 684e4ad90f56025163f1901c - task_created - high","service":"notification-system","timestamp":"2025-06-15T04:23:53.667Z"}
+{"level":"info","message":"✅ Created 1 notifications for event 684e4ad90f56025163f1901c","service":"notification-system","timestamp":"2025-06-15T04:23:53.730Z"}
+{"level":"info","message":"📧 EMAIL sent to alice@example.com: System Reboot Scheduled - The system will be down from 2 AM to 4 AM for maintenance.","service":"notification-system","timestamp":"2025-06-15T04:23:53.790Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"notification-system","timestamp":"2025-06-15T04:29:32.119Z"}
+{"level":"info","message":"Scheduler service started","service":"notification-system","timestamp":"2025-06-15T04:29:32.143Z"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"notification-system","timestamp":"2025-06-15T04:29:32.147Z"}
+{"level":"info","message":"📍 Environment: development","service":"notification-system","timestamp":"2025-06-15T04:29:32.148Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:5000/health","service":"notification-system","timestamp":"2025-06-15T04:29:32.149Z"}
+{"level":"info","message":"📧 Notification system ready","service":"notification-system","timestamp":"2025-06-15T04:29:32.149Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"notification-system","timestamp":"2025-06-15T04:30:44.958Z"}
+{"level":"info","message":"Scheduler service started","service":"notification-system","timestamp":"2025-06-15T04:30:44.984Z"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"notification-system","timestamp":"2025-06-15T04:30:44.988Z"}
+{"level":"info","message":"📍 Environment: development","service":"notification-system","timestamp":"2025-06-15T04:30:44.989Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:5000/health","service":"notification-system","timestamp":"2025-06-15T04:30:44.989Z"}
+{"level":"info","message":"📧 Notification system ready","service":"notification-system","timestamp":"2025-06-15T04:30:44.989Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"notification-system","timestamp":"2025-06-15T04:53:39.052Z"}
+{"level":"info","message":"MongoDB connected successfully","service":"notification-system","timestamp":"2025-06-15T04:53:56.671Z"}
+{"level":"info","message":"Scheduler service started","service":"notification-system","timestamp":"2025-06-15T04:53:56.764Z"}
+{"level":"info","message":"🚀 Server running on port 5000","service":"notification-system","timestamp":"2025-06-15T04:53:56.771Z"}
+{"level":"info","message":"📍 Environment: development","service":"notification-system","timestamp":"2025-06-15T04:53:56.772Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:5000/health","service":"notification-system","timestamp":"2025-06-15T04:53:56.772Z"}
+{"level":"info","message":"📧 Notification system ready","service":"notification-system","timestamp":"2025-06-15T04:53:56.773Z"}
+{"level":"info","message":"User created: 684e51f6616d998e6fb2a3a2 - Alice","service":"notification-system","timestamp":"2025-06-15T04:54:14.723Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"notification-system","timestamp":"2025-06-15T04:54:19.407Z"}

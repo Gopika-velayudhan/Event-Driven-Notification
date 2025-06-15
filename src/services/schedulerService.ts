@@ -10,7 +10,7 @@ export class SchedulerService {
   }
 
   start(): void {
-    // Schedule low priority notifications to be sent daily at 9 AM
+    
     cron.schedule('0 9 * * *', async () => {
       logger.info('Starting daily batch notification job');
       try {
